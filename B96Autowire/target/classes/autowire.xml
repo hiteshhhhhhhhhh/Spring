@@ -10,11 +10,4 @@ http://www.springframework.org/schema/beans http://www.springframework.org/schem
 </bean>
 <bean id = "human" class="com.tns.auto.Human" ></bean>
 
-
-
-
-
-
-
-
 </beans>
