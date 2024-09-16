@@ -3,7 +3,7 @@ package com.tns.auto;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class Human {
-	private Heart heart; // creating a refernece of heart class
+	private Heart heart; // creating a reference of heart class
 
 	
 	public Heart getHeart() {
