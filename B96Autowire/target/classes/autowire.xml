@@ -10,6 +10,6 @@
 
 <bean id = "heartobj" class="com.tns.auto.Heart">
 </bean>
-<bean id = "human" class="com.tns.auto.Human" ></bean>
+<bean id = "human" class="com.tns.auto.Human"></bean>
 
 </beans>
