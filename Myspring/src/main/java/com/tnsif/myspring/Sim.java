@@ -1,5 +1,7 @@
 package com.tnsif.myspring;
 
-public class Sim {
+public interface Sim {
+	void calling();
+	void data();
 
 }

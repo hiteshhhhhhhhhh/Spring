@@ -30,5 +30,10 @@
     <version>11.0.0-M24</version>
 </dependency>
 
-</dependencies>
+  	<dependency>
+  		<groupId>B96Autowire</groupId>
+  		<artifactId>B96Autowire</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
